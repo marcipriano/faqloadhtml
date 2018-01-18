@@ -12,5 +12,6 @@
         $('.summernote').summernote({
 			dialogsInBody: true,
 		});
+		$(".note-group-select-from-files").hide();
     });
 </script>
